@@ -1,4 +1,4 @@
 # js-modal
-Simple JS-modal design with ease animation
+JS-modal design with ease animation
 
 Live Demo : https://nihatxss.github.io/js-modal/
